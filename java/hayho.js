@@ -7,6 +7,7 @@ const messages = [
     "Nếu chọn không,tui sẽ thực sự buồn đó -_-",
     "Sẽ rất buồn luôn T-T",
     "Rất rất buồn luôn '.'",
+    "Bà nói thiệt hả bà Thơ";
     "Thôi không hỏi nữa =))",
     "Không có chuyện đó đâu =)) ❤️"
 ];
