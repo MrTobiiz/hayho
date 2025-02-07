@@ -4,7 +4,7 @@ const messages = [
     "Có muốn chọn lại không?",
     "Thôi mà",
     "Suy nghĩ lại đi!",
-    "Nếu chọn nói không,tui sẽ thực sự buồn đó -_-",
+    "Nếu chọn không,tui sẽ thực sự buồn đó -_-",
     "Sẽ rất buồn luôn T-T",
     "Rất rất buồn luôn '.'",
     "Thôi không hỏi nữa =))",
